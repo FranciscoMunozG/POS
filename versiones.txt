@@ -1,0 +1,33 @@
+Versiones
+
+v0.4
+	Como resultado de la revisión de la version 0.3, la PUC declara satisfaccion con respecto a:
+		a) Los colores están bien.
+		b) Los tamaños de textos de menú y de usuarios están bien.
+		c) Las opciones de menú están correctas.
+	El seguimiento consolidado de las declaraciones de satisfacción se realizará en el archivo "Declaraciones de Satisfacción.xlsx",
+	el cual se sube al repositorio.
+		
+	Del correo recibido se identifican los siguientes issues:
+	
+		1) Cambio en la posición del logo UC y del POS-VRC.
+		2) Eliminar los iconos de Favoritos y de Tiempo de proceso, y dejar el icono de home.
+		3) Disminuir la altura de la cabecera donde va el logo UC y usuario para maximizar el área de las pantallas de las transacciones.
+		4) Si el usuario presiona el icono home, la aplicación debe volver a la pantalla principal.
+		5) En el icono de usuario con su rol, entendemos que aquí podrá cambiar su contraseña y hacer el logout de la aplicación.
+
+	En virtud de lo anterior esta versión se hace cargo de los issues 1 al 3. Quedando pendientes los issues 4 y 5. 
+	El seguimiento consolidado de estos issues se encuentra en el archivos "Issues.xlsx". el cual se sube al repositorio.
+
+v0.3
+	A solicitud de la PUC se crea nueva versión de la interfaz de usuarios que se acerca significativamente 
+	al estilo de Netsuite. 
+	
+v0.2 
+	Se crean las pantallas
+		P01 Login
+		P02 Login Error de Conexión
+		P03 Principal
+	A partir de los documentos entregados por Carlos Leiton.
+
+v0.1 Primera versión para probar el acceso al respositorio
