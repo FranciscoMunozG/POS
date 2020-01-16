@@ -1,4 +1,14 @@
 Versiones
+v0.5
+	De la versión 0.4 se reciben los siguientes issues
+	
+		6)Que el texto POS VRC esté alineado en la parte inferior con el logo UC e icono de cajero (ver figura)
+		7)Que considere la versión del software arriba del icono de usuario como muestra la figura adjunta con el mismo color y tamaño de letra del nombre del usuario conectado.
+
+	Estos issues se incorporan en el consolidado.
+	
+	En esta versión versión se hace cargo de los issues 6 y 7.
+
 
 v0.4
 	Como resultado de la revisión de la version 0.3, la PUC declara satisfaccion con respecto a:
