@@ -1,0 +1,100 @@
+{
+  "height": 38,
+  "buttons": [
+    {
+      "text": "",
+      "is_button": true,
+      "icon_request": "imagen_icono_casa",
+      "screen": 0
+    },
+    {
+      "width":170,
+      "text": "Apertura de Caja",
+      "is_button": false,
+      "sub_buttons": [
+        {
+          "text": "Ingreso de Parametros",
+          "screen": 5,
+		  "case": 1
+        }
+      ]
+    },
+    {
+      "width":220,
+      "text": "Pagos no Presenciales",
+      "is_button": false,
+      "sub_buttons": [
+        {
+          "text": "Carga de Datos Remotos",
+          "screen": 15,
+		  "case": 4
+        },
+        {
+          "text": "Carga de Certificados Remotos",
+          "screen": 21,
+		  "case": 5
+        }
+      ]
+    },
+    {
+      "width":180,
+      "text": "Operaciones de Caja",
+      "is_button": false,
+      "sub_buttons": [
+        {
+          "text": "Consulta por RUT",
+          "screen": 26,
+		  "case":6
+        },
+        {
+          "text": "Pago de Otros Productos",
+          "screen": 44,
+		  "case":9
+        },
+        {
+          "text": "Reversa de Documentos",
+          "screen": 37,
+		  "case":7
+        },
+        {
+          "text": "Egreso de Caja",
+          "screen": 32,
+		  "case":3
+        },
+        {
+          "text": "Cierre de Caja",
+          "screen": 7,
+		  "case":2
+        }
+      ]
+    },
+    {
+      "width":180,
+      "text": "Consultas",
+      "is_button": false,
+      "sub_buttons": [
+        {
+          "text": "Medios de Pago",
+          "screen": 50,
+		  "case":10
+        },
+        {
+          "text": "Consulta por Ficha",
+          "screen": 51,
+		  "case":11
+        },
+		{
+          "text": "Consulta por Factura",
+          "screen": 53,
+		  "case":13
+        },
+        {
+          "text": "Resumen por Caja",
+          "screen": 52,
+		  "case":12
+        },
+        
+      ]
+    }
+  ]
+}
