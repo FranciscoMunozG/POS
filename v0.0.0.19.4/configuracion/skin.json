@@ -1,0 +1,123 @@
+{
+  "pantalla": {
+    "dimension_max": [
+      1920,
+      1080
+    ],
+    "dimension_min": [
+      800,
+      600
+    ],
+    "dimension_inicial": [
+      1280,
+      720
+    ],
+    "skin_default": "skin_blue"
+  },
+  "skin_blue": {
+    "header": {
+      "color_texto": "#607799",
+      "color_fondo": "#ffffff",
+      "imagen_logoUC": "logoUC.png",
+      "texto_font_POS": "Tahoma",
+      "texto_fontSize_POS": 24,
+      "imagen_icono_usuario": "empleado.png"
+    },
+    "ribbon": {
+      "buttons": {
+        "color_fondo": "#f0f0f0",
+        "color_texto": "#ffffff",
+        "color_texto_hover": "#607799",
+        "texto_font": "SansSerif",
+        "texto_fontSize": 14,
+        "imagen_icono_casa": "home.png",
+        "imagen_icono_casa_hover": "home_#607799.png"
+      },
+      "subMenu": {
+        "color_fondo": "#D6D9DF"
+      },
+      "subMenuButtons": {
+        "color_fondo": "#ffffff",
+        "texto_font": "SansSerif",
+        "texto_fontSize": 12,
+        "color_texto": "#607799",
+        "color_texto_hover": "#607799"
+      },
+      "color_fondo": "#607799"
+    },
+    "body": {
+      "color_fondo": "#ffffff",
+      "color_fondo_primario": "#607799",
+      "color_fondo_secundario": "#f0f0f0",
+      "color_texto_primario": "#607799",
+      "color_texto_secundario": "#ffffff",
+      "texto_font_panel": "SansSerif",
+      "color_boton_fondo": "#ffffff",
+      "color_boton_fondo_hover": "#aaaaaa",
+      "imagen_icono_boton_atras": "flecha_#607799.png",
+      "imagen_icono_boton_atras_hover": "flecha.png",
+      "imagen_icono_boton_adelante": "flecha_derecha_#607799.png",
+      "imagen_icono_boton_adelante_hover": "flecha_derecha.png",
+      "imagen_icono_error": "icono_error.png",
+      "texto_fontSize_grantitulo": 36,
+      "texto_fontSize_titulo": 18,
+      "texto_fontSize_subtitulo": 14,
+      "texto_fontSize": 11,
+      "color_texto_boton": "#000000",
+      "color_texto_textField": "#000000"
+    }
+  },
+  "skin_dark": {
+    "header": {
+      "color_texto": "#ff0000",
+      "color_fondo": "#000000",
+      "texto_font_POS": "Comic Sans MS",
+      "texto_fontSize_POS": 24,
+      "imagen_logoUC": "logoUC.png",
+      "imagen_icono_usuario": "empleado.png"
+    },
+    "ribbon": {
+      "color_fondo": "#600060",
+      "buttons": {
+        "color_fondo": "#000000",
+        "color_texto": "#ff0000",
+        "color_texto_hover": "#600060",
+        "texto_font": "Comic Sans MS",
+        "texto_fontSize": 14,
+        "imagen_icono_casa": "home.png",
+        "imagen_icono_casa_hover": "home_#607799.png"
+      },
+      "subMenu": {
+        "color_fondo": "#303030"
+      },
+      "subMenuButtons": {
+        "color_fondo": "#000000",
+        "color_texto": "#ff0000",
+        "color_texto_hover": "#600060",
+        "texto_font": "Comic Sans MS",
+        "texto_fontSize": 12
+      }
+    },
+    "body": {
+      "color_fondo": "#000000",
+      "color_fondo_primario": "#ff0000",
+      "color_fondo_secundario": "#600060",
+      "color_texto_primario": "#ff0000",
+      "color_texto_secundario": "#000000",
+      "texto_font_panel": "Comic Sans MS",
+      "color_boton_fondo": "#0f0f0f",
+      "color_boton_fondo_hover": "#333333",
+      "imagen_icono_boton_atras": "flecha.png",
+      "imagen_icono_boton_atras_hover": "flecha_#607799.png",      
+      "imagen_icono_boton_adelante": "flecha_derecha.png",
+      "imagen_icono_boton_adelante_hover": "flecha_derecha_#607799.png",
+      "imagen_icono_error": "icono_error.png",
+      "texto_fontSize_grantitulo": 36,
+      "texto_fontSize_titulo": 18,
+      "texto_fontSize_subtitulo": 14,
+      "texto_fontSize": 11,
+      "color_texto_boton": "#ffffff",
+      "color_texto_textField": "#000000"
+    }
+  }
+}

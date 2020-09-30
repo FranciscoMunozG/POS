@@ -1,0 +1,35 @@
+{
+  "separacionPaneles":0,
+  "ancho":1274,
+  "alto":685,
+  "headerPanelLayout":{
+    "x":0,
+    "y":0,
+    "alto":80,
+    "tipoAlto":"fijo",
+    "altoMaximo":80,
+    "ancho":1274,
+    "tipoAncho":"ajustable",
+    "anchoMaximo":1274
+  },
+  "menuPanelLayout":{
+    "x":0,
+    "y":80,
+    "alto":38,
+    "tipoAlto":"fijo",
+    "altoMaximo":38,
+    "ancho":1274,
+    "tipoAncho":"ajustable",
+    "anchoMaximo":1274
+  },
+  "bodyPanelLayout":{
+    "x":0,
+    "y":118,
+    "alto":567,
+    "tipoAlto":"ajustable",
+    "altoMaximo":685,
+    "ancho":1274,
+    "tipoAncho":"ajustable",
+    "anchoMaximo":1274
+  }
+}
